@@ -4,7 +4,7 @@ window.onload = function() {
     var button2 = document.querySelector('.other');
   
     button.addEventListener('click', function() {
-      alert("Let's Rock!!");
+      alert("Rock!!");
     });
     
     button2 .addEventListener('click', function() {
